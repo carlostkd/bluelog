@@ -161,7 +161,7 @@ Then run:
 
 keep it in background
 
-python2 bluelogger.py &> /dev/null &
+python3 bluelogger.py &> /dev/null &
 
 start the web server
 
